@@ -1,5 +1,5 @@
 name: colorpicker_aw
-description: A new Flutter package project.
+description: A HSV(HSB)/HSL color picker inspired by chrome devtools and a material color picker for your flutter app.
 version: 0.0.1
 homepage:
 

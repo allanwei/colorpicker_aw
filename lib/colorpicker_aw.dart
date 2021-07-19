@@ -1,7 +1,8 @@
 library colorpicker_aw;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export '../src/colorpicker.dart';
+export '../src/hsv_picker.dart';
+export '../src/hsv_colorpicker.dart';
+export '../src/material_picker.dart';
+export '../src/block_picker.dart';
+export '../src/utils.dart';
